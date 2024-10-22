@@ -2,7 +2,7 @@ build:
     version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank accounts related Cards QA APIs "
+  message: "Welcome to EazyBank accounts related Cards UAT APIs "
   contactDetails:
     name: "John Doe - QA Lead"
     email: "john@eazybank.com"
