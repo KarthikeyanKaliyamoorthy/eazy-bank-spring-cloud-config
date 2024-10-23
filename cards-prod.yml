@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank accounts related Cards Webhook APIs "
+  message: "Welcome to EazyBank accounts related Cards Prod APIs "
   contactDetails:
     name: "Willy - Product owner"
     email: "willy@eazybank.com"
